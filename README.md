@@ -1,72 +1,92 @@
-<!-- Improved README.md created by automated editor -->
-
-# Ivan Ishchenko — Розробник / Developer �
-
-Коротко: я створюю чистий, інтуїтивний фронтенд і бекенд код — люблю HTML, CSS, JavaScript та Node.js. Постійно вчуся, експериментую з новими інструментами і працюю над практичними проєктами.
-
-## Зміст
-- [Про мене](#про-мене)
-- [Технології](#технології)
-- [Проєкти](#проєкти)
-- [Контакти](#контакти)
-- [Статистика GitHub](#статистика-github)
+<h1 align="center">Hello👋 My name is Ivan Ishchenko!</h1>
 
 ---
 
-## Про мене
-
-🚀 Розробник, що любить перетворювати ідеї в робочі продукти. Працюю з сучасними веб-технологіями, націлений на чистий та підтримуваний код.
-
-Мови: українська, англійська (базовий)
-
-## Технології
-
-<!-- badges -->
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-## Проєкти (вибране)
-
-- Portfolio — персональний сайт з інформацією про мої роботи (HTML/CSS/JS).
-- Todo App — бекенд на Node.js + фронтенд на Vanilla JS.
-- Fullstack CRUD App — MongoDB + Express + Node + простий React інтерфейс.
-
-(Якщо хочете — можу додати посилання та короткі демонстрації цих проєктів прямо в README.)
-
-## Контакти
-
-- Email: [isenkoivan93@gmail.com](mailto:isenkoivan93@gmail.com)
-- GitHub: https://github.com/IvanIshchenko
-
-## Статистика GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=Ivan22032009&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ivan22032009&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ivan22032009&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <a href="https://github.com/IvanIshchenko-ua" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-ishchenko" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="mailto:ivanishchenkos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ivan22032009&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">👩‍💻 About Me</h3>
 
-## Як допомогти/Підтримати
+<p align="left">
+I am a Full Stack development student specializing in web development. My journey began with participation in programming competitions where I achieved top rankings. Later, I pursued web development courses at Robocode IT School, where I honed my skills. My goal is to create efficient, scalable, and innovative web solutions.
+</p>
 
-- Залиште зірочку ⭐ на репозиторії — це дуже допомагає.
-- Якщо знайшли баг — відкрийте issue або PR.
+<p align="left">
+- 🎓 1st place in the city-level programming olympiad (2024-2025)<br>
+- 💻 Completed Web Middle course at Robocode IT School (2025), with grade A (98/100)<br>
+- 📚 Participated in programming olympiads at the city and regional levels.
+</p>
 
 ---
 
-Якщо хочете — можу:
-- додати секцію «Проєкти» з посиланнями та скриншотами;
-- зробити англомовну версію README;
-- додати інструкції запуску окремих проєктів.
+<h3 align="left">🛠 Technologies:</h3>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+</div>
+
+---
+
+<h3 align="left">🔥 My Statistics:</h3>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=IvanIshchenko-ua&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanIshchenko-ua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IvanIshchenko-ua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h3 align="left">📕 My Articles</h3>
+
+- [Building a Full Stack Application with Node.js and React](https://github.com/IvanIshchenko-ua/-Antares-)
+- [Developing an API with Express and MongoDB](https://github.com/IvanIshchenko-ua/SchoolProject)
+
+---
+
+<p align="center">
+  <img width="600" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanIshchenko-ua&repo=portfolio" alt="portfolio"/>
+</p>
+
+---
+
+<h3 align="left">🔗 Contact</h3>
+
+- 📧 Email: ivanishchenkos@gmail.com
+- 🌐 Portfolio: [ivanishchenko.codes](https://ivanishchenko.codes)
+- 🔗 GitHub: [@IvanIshchenko-ua](https://github.com/IvanIshchenko-ua)
+  
