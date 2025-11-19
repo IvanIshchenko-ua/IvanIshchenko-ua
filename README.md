@@ -78,12 +78,6 @@ I am a Full Stack development student specializing in web development. My journe
 
 ---
 
-<p align="center">
-  <img width="600" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanIshchenko-ua&repo=portfolio" alt="portfolio"/>
-</p>
-
----
-
 <h3 align="left">🔗 Contact</h3>
 
 - 📧 Email: ivanishchenkos@gmail.com
